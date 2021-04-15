@@ -1,8 +1,8 @@
-# File-Automation
+File-Automation
 # This project does the automation of files. It'll take some sort of information from you to complete the automation of files.
 
 # It'll search across the drive
-# step 1 : Enter a file name 
+step 1 : Enter a file name 
 
 # Now it'll gives you an output as a list of all the files where it is located (in your machine)
 # step 2 : Copy the path if given as an o/p
